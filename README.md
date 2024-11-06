@@ -30,7 +30,7 @@ Aplikasi **Web Penerimaan Beasiswa** ini dirancang untuk membantu proses pendaft
 1. **Clone Repository**:
    - Pertama, clone repositori ini ke dalam folder lokal:
      ```bash
-     git clone https://github.com/username/web-penerimaan-beasiswa.git
+     git clone https://github.com/FaturRahmanZaki/Web-Penerimaan-Beasiswa
      ```
 
 2. **Set Up Database**:
